@@ -1,4 +1,4 @@
-sCupcake app
+Cupcake app
 =================================
 
 This app contains an order flow for cupcakes with options for quantity, flavor, and pickup date.
@@ -19,3 +19,8 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+
+
+https://github.com/user-attachments/assets/cfba7487-373b-4f67-bf00-e56fed19983e
+
